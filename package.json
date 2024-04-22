@@ -1,0 +1,14 @@
+{
+  "name": "architect-demo-test",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^11.0.10"
+  },
+  "dependencies": {
+    "@architect/plugin-lambda-invoker": "^1.2.0"
+  }
+}
